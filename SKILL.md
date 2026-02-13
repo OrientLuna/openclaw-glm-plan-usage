@@ -202,7 +202,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件。
 
 ## 致谢
 
-- 原始实现: [zai-coding-plugins](https://github.com/guyinwonder168/zai-coding-plugins) by guyinwonder168
+- 原始实现: [zai-coding-plugins](https://github.com/zai-org/zai-coding-plugins)
 - 参考实现: [opencode-glm-quota](https://github.com/guyinwonder168/opencode-glm-quota)
 - OpenClaw 集成: 本技能
 

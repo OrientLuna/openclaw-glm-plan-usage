@@ -293,5 +293,5 @@ The skill determines the output language based on the detected platform:
 
 - [OpenClaw Documentation](https://openclaw.dev)
 - [GLM Coding Plan](https://open.bigmodel.cn)
-- [zai-coding-plugins](https://github.com/guyinwonder168/zai-coding-plugins)
+- [zai-coding-plugins](https://github.com/zai-org/zai-coding-plugins)
 - [opencode-glm-quota](https://github.com/guyinwonder168/opencode-glm-quota)

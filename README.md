@@ -216,7 +216,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-- Original implementation: [zai-coding-plugins](https://github.com/guyinwonder168/zai-coding-plugins) by guyinwonder168
+- Original implementation: [zai-coding-plugins](https://github.com/zai-org/zai-coding-plugins)
 - Reference implementation: [opencode-glm-quota](https://github.com/guyinwonder168/opencode-glm-quota)
 - OpenClaw integration: This skill
 
@@ -342,5 +342,5 @@ MIT License - 详见 [LICENSE](LICENSE)。
 
 ## 致谢
 
-- 原始实现: [zai-coding-plugins](https://github.com/guyinwonder168/zai-coding-plugins) by guyinwonder168
+- 原始实现: [zai-coding-plugins](https://github.com/zai-org/zai-coding-plugins)
 - 参考实现: [opencode-glm-quota](https://github.com/guyinwonder168/opencode-glm-quota)

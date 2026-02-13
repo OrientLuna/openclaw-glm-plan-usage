@@ -44,7 +44,7 @@ brew install jq           # macOS
 
 1. 将此仓库克隆到本地：
 ```bash
-git clone https://github.com/USERNAME/openclaw-glm-plan-usage.git
+git clone https://github.com/OrientLuna/openclaw-glm-plan-usage.git
 cd openclaw-glm-plan-usage
 ```
 
